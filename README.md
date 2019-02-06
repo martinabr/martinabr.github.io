@@ -1,5 +1,3 @@
-# Martina Brachmann
-
 Martina Brachmann is a PhD candidate and assistant researcher at the Adaptive Dynamic Systems group at the Technische Universität Dresden.
 
 Martina received her Master of Science in Information and Communication Technology from the Brandenburg University of Technology (BTU), Germany, in 2012 and joined the Wireless Sensor Networks Lab at the Technische Universität Darmstadt, Germany, as PhD candidate under guidance of Prof. Dr. Silvia Santini afterwards. In February 2015, she followed Prof. Santini to the Embedded Systems Lab at the Technische Universität Dresden, Germany.
