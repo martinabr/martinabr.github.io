@@ -1,4 +1,4 @@
-<img style="float: right;" src="Profilbild.jpg" alt="Martina Brachmann | Copyright Dr. Oliver Knodel" width="250"/>
+<img style="float:right;" src="Profilbild.jpg" alt="Martina Brachmann | Copyright Dr. Oliver Knodel" width="290"/>
   
 Martina Brachmann is an ERCIM Alain Bensoussan post-doctoral researcher working at the Networked Embedded Systems group of Thiemo Voigt at RISE SICS in Stockholm, Sweden.
 
