@@ -1,5 +1,3 @@
-![Martina](Profilbild.jpg?raw=true  'Martina')
-
 Martina Brachmann is an ERCIM Alain Bensoussan post-doctoral researcher working at the Networked Embedded Systems group of Thiemo Voigt at RISE SICS in Stockholm, Sweden.
 
 Martina's research area is the Internet of Things with main focus on communication in low-power wireless networks. She has been working on different aspects and layers in the communication stack, from security over medium access control to physical layer considerations.
