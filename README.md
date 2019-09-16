@@ -5,6 +5,8 @@ Martina's research area is the Internet of Things with main focus on communicati
 Martina completed her PhD at the Technische Universität Dresden, Germany, under guidance of Prof. Dr. Silvia Santini in 2018. From May to August 2015, she joined Prof. Dr. Olaf Landsiedel’s research group in Chalmers University of Technology, Sweden, as a research scholar. She received her Master of Science in Information and Communication Technology from the Brandenburg University of Technology Cottbus (BTU), Germany, in 2012.
 
 ## Selected Publications
+   * M. Brachmann, O. Landsiedel, D. Göhringer, and S. Santini. Whisper: Fast Flooding for Low-Power Wireless Networks. Accepted for publication in ACM Transactions on Sensor Networks (TOSN).
+   * M. Brachmann, S. Duquennoy, N. Tsiftes, and T. Voigt. IEEE 802.15.4 TSCH in Sub-GHz: Design Considerations and Multi-band Support. In To appear in Proceedings of the IEEE Conference on Local Computer Networks (LCN), 2019.
    * M. Brachmann, O. Landsiedel, S. Santini, [Keep the Beat: On-The-Fly Clock Offset Compensation for Synchronous Transmissions in Low-Power Networks](https://ieeexplore.ieee.org/document/8109370), In: IEEE Conference on Local Computer Networks (LCN), 2017. [[code]](https://github.com/martinabr/flock)
    * M. Brachmann, O. Landsiedel, S. Santini, [Concurrent Transmissions for Communication Protocols in the Internet of Things](https://ieeexplore.ieee.org/document/7796815), In: IEEE Conference on Local Computer Networks (LCN), 2016. [[code]](https://github.com/martinabr/laneflood)
    * M. Stein, T. Petry, I. Schweizer, M.Brachmann, M. Mühlhäuser, [Topology Control in Wireless Sensor Networks: What Blocks the Breakthrough?](https://ieeexplore.ieee.org/document/7796813), In: IEEE Conference on Local Computer Networks (LCN), 2016.
@@ -14,6 +16,8 @@ Martina completed her PhD at the Technische Universität Dresden, Germany, under
    * I. Gurov, P. E. Guerrero, M. Brachmann, S. Santini, K. v. Laerhoven, A. Buchmann, [Poster Abstract: A Site Properties Assessment Framework for Wireless Sensor Networks](https://dl.acm.org/citation.cfm?id=2517400), In: ACM Conference on Embedded Networked Sensor Systems (SenSys), 2013. 
 
 ## Supervised Theses
+  * Wolfgang Walter, Besondere Lernleistung (BeLL), "Visualisierung der Signalstärke von Funkwellen durch Echtzeitmessung", 2018 [He won the 3rd place in the regional competition (Dresden-Ostsachsen) at *Jugend forscht - Schüler experimentieren*.](https://jufo-dresden.de/projekt/teilnehmer/matheinfo/M1) **Congratulations!**
+  * Wolfgang Walter, Wissenschaftliche Jahresarbeit (WiJa), "Echtzeitmessung und Darstellung der Signalstärke von Funkwellen", 2017/2018
   * Aaron Bulmahn, Bachelor's Thesis, "Reduzierung des Energieverbrauchs von LaneFlood durch FastAwake", 2017
   * Tim Kluge, Bachelor's Thesis, "Kommunikation im Internet der Dinge mittels Gleichzeitiges Senden", 2016
   * David Ordnung, Bachelor's Thesis, "Erkennen und Behandeln von Paketverlusten in Protokollen basierend auf simultanem Übertragen", 2016
