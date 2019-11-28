@@ -14,6 +14,15 @@ Martina completed her PhD at the Technische Universität Dresden, Germany, under
    * P. M. Scholl, M. Brachmann, S. Santini, K. v. Laerhoven, [Integrating Wireless Sensor Nodes in the Robot Operating System](https://link.springer.com/chapter/10.1007/978-3-642-55029-4_7), In: A. Koubaa and A. Khelil, editors, Cooperative Robots and Sensor Networks 2014, volume 554 of Studies in Computational Intelligence. Springer, 2014.
    * M. Brachmann, S. Santini, [Poster Abstract: Towards the Benchmarking of Ultra-Low Latency Communication Protocols for Wireless Sensor and Actuator Networks](https://dl.acm.org/citation.cfm?id=2517430), In: ACM Conference on Embedded Networked Sensor Systems (SenSys), 2013.
    * I. Gurov, P. E. Guerrero, M. Brachmann, S. Santini, K. v. Laerhoven, A. Buchmann, [Poster Abstract: A Site Properties Assessment Framework for Wireless Sensor Networks](https://dl.acm.org/citation.cfm?id=2517400), In: ACM Conference on Embedded Networked Sensor Systems (SenSys), 2013. 
+   
+## Committees
+TPC
+   * 2019: Informatik, IEEE ICPADS (sub-reviewer)
+   * 2017: ISVLSI (sub-reviewer)
+
+Journals
+   * [ACM Transactions on Sensor Networks (TOSN)](https://tosn.acm.org/)
+   * [Elsevier Ad Hoc Networks](https://www.journals.elsevier.com/ad-hoc-networks/)
 
 ## Supervised Theses
   * Wolfgang Walter, Besondere Lernleistung (BeLL), "Visualisierung der Signalstärke von Funkwellen durch Echtzeitmessung", 2018 [He won the 3rd place in the regional competition (Dresden-Ostsachsen) at *Jugend forscht - Schüler experimentieren*.](https://jufo-dresden.de/projekt/teilnehmer/matheinfo/M1) **Congratulations!**
