@@ -1,10 +1,12 @@
-<img style="float:right;" src="Profilbild.jpg" alt="Martina Brachmann | Copyright Dr. Oliver Knodel" width="327"/> Martina Brachmann is an ERCIM Alain Bensoussan post-doctoral researcher working at the Networked Embedded Systems (NES) group of Thiemo Voigt at RISE SICS in Stockholm, Sweden.
+<img style="float:right;" src="Profilbild.jpg" alt="Martina Brachmann | Copyright Dr. Oliver Knodel" width="327"/> Martina Brachmann is a researcher in the Ericsson Research IoT Technologies and Cyber-Physical Systems team.
 
-Martina's research area is the Internet of Things with main focus on communication in low-power wireless networks. Over the past years, she has been working on different aspects and layers in the communication stack, from security over medium access control to physical layer considerations.
+Her area of interest include the Internet of Things with a main focus on resource-constrained, low-power devices. Over the past years, she has been working on different aspects and layers in the stack of such devices -- from application layer to security over medium access control to physical layer considerations.
 
-Martina completed her PhD at the Technische Universität Dresden, Germany, under guidance of Prof. Dr. Silvia Santini in 2018. From May to August 2015, she joined Prof. Dr. Olaf Landsiedel’s research group in Chalmers University of Technology, Sweden, as a research scholar. She received her Master of Science in Information and Communication Technology from the Brandenburg University of Technology Cottbus (BTU), Germany, in 2012.
+Previously, Martina was an ERCIM Alain Bensoussan post-doctoral researcher working at the Networked Embedded Systems (NES) group of Thiemo Voigt at RISE SICS in Stockholm, Sweden. She completed her PhD at the Technische Universität Dresden, Germany, under guidance of Prof. Dr. Silvia Santini in 2018. From May to August 2015, she joined Prof. Dr. Olaf Landsiedel’s research group in Chalmers University of Technology, Sweden, as a research scholar. She received her Master of Science in Information and Communication Technology from the Brandenburg University of Technology Cottbus (BTU), Germany, in 2012.
 
 ## Selected Publications
+   * S. Ahmed, N. A. Bhatti, M. Brachmann, M. H. Alizai. [A survey on program-state retention for transiently-powered systems](https://www.sciencedirect.com/science/article/abs/pii/S1383762121000242). In: Journal of Systems Architecture (JSA), 2021.
+   * S. Hazra, M. Brachmann and T. Voigt. [Shadow-based Hand Gesture Recognition in one Packet](https://ieeexplore.ieee.org/abstract/document/9183489). In: International Conference on Distributed Computing in Sensor Systems (DCOSS), 2020.
    * M. Brachmann, O. Landsiedel, D. Göhringer, and S. Santini. [Whisper: Fast Flooding for Low-Power Wireless Networks](https://dl.acm.org/citation.cfm?id=3356341). In: ACM Transactions on Sensor Networks (TOSN), 2019. [[code]](https://github.com/martinabr/whisper)
    * M. Brachmann, S. Duquennoy, N. Tsiftes, and T. Voigt. IEEE 802.15.4 TSCH in Sub-GHz: Design Considerations and Multi-band Support. In: IEEE Conference on Local Computer Networks (LCN), 2019. [[paper]](https://e-archivo.uc3m.es/bitstream/handle/10016/29060/tsch_IEEE_2019_ps.pdf?sequence=1)[[code]](https://github.com/martinabr/multi-phy-tsch)
    * M. Brachmann, O. Landsiedel, S. Santini, [Keep the Beat: On-The-Fly Clock Offset Compensation for Synchronous Transmissions in Low-Power Networks](https://ieeexplore.ieee.org/document/8109370), In: IEEE Conference on Local Computer Networks (LCN), 2017. [[code]](https://github.com/martinabr/flock)
@@ -23,6 +25,7 @@ TPC
 Journals
    * [ACM Transactions on Sensor Networks (TOSN)](https://tosn.acm.org/)
    * [Elsevier Ad Hoc Networks](https://www.journals.elsevier.com/ad-hoc-networks/)
+   * [Elsevier Pervasive and Mobile Computing](https://www.journals.elsevier.com/pervasive-and-mobile-computing)
 
 ## Supervised Theses
   * Wolfgang Walter, Besondere Lernleistung (BeLL), "Visualisierung der Signalstärke von Funkwellen durch Echtzeitmessung", 2018 [He won the 3rd place in the regional competition (Dresden-Ostsachsen) at *Jugend forscht - Schüler experimentieren*.](https://jufo-dresden.de/projekt/teilnehmer/matheinfo/M1) **Congratulations!**
