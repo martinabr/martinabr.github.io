@@ -27,14 +27,15 @@ Journals
    * [Elsevier Ad Hoc Networks](https://www.journals.elsevier.com/ad-hoc-networks/)
    * [Elsevier Pervasive and Mobile Computing](https://www.journals.elsevier.com/pervasive-and-mobile-computing)
 
-## Supervised Theses
-  * Wolfgang Walter, Besondere Lernleistung (BeLL), "Visualisierung der Signalstärke von Funkwellen durch Echtzeitmessung", 2018 [He won the 3rd place in the regional competition (Dresden-Ostsachsen) at *Jugend forscht - Schüler experimentieren*.](https://jufo-dresden.de/projekt/teilnehmer/matheinfo/M1) **Congratulations!**
-  * Wolfgang Walter, Wissenschaftliche Jahresarbeit (WiJa), "Echtzeitmessung und Darstellung der Signalstärke von Funkwellen", 2017/2018
-  * Aaron Bulmahn, Bachelor's Thesis, "Reduzierung des Energieverbrauchs von LaneFlood durch FastAwake", 2017
-  * Tim Kluge, Bachelor's Thesis, "Kommunikation im Internet der Dinge mittels Gleichzeitiges Senden", 2016
-  * David Ordnung, Bachelor's Thesis, "Erkennen und Behandeln von Paketverlusten in Protokollen basierend auf simultanem Übertragen", 2016
-  * Nicolas Coppik, Master's Thesis, "Selective Forwarding Mechanisms for Flooding-based Synchronous Transmissions", 2014
-  * Dennis Becker, Master's Thesis, "Exploiting Constructive Interference in Heterogeneous Networks on the Example of Glossy", 2014
+## Supervised Theses and Seminar Projects
+  * Lin Sinan, Seminar in Computer Science: Internet, Data and Things (Aalto University, Finland), "A Comprehensive Survey for Deep Learning Compilers", 2020 [[paper]](https://drive.google.com/file/d/1cZ1R73dRn69qP7gJeVp2P8L-LcGlul70/view) (co-supervised with Hiroshi Doyu, Roberto Morabito, and Oscar Novo)
+  * Wolfgang Walter, Besondere Lernleistung (BeLL) (Technische Universität Dresden, Germany), "Visualisierung der Signalstärke von Funkwellen durch Echtzeitmessung", 2018 [He won the 3rd place in the regional competition (Dresden-Ostsachsen) at *Jugend forscht - Schüler experimentieren*.](https://jufo-dresden.de/projekt/teilnehmer/matheinfo/M1) **Congratulations!**
+  * Wolfgang Walter, Wissenschaftliche Jahresarbeit (WiJa) (Technische Universität Dresden, Germany), "Echtzeitmessung und Darstellung der Signalstärke von Funkwellen", 2017/2018
+  * Aaron Bulmahn, Bachelor's Thesis (Technische Universität Dresden, Germany), "Reduzierung des Energieverbrauchs von LaneFlood durch FastAwake", 2017
+  * Tim Kluge, Bachelor's Thesis (Technische Universität Dresden, Germany), "Kommunikation im Internet der Dinge mittels Gleichzeitiges Senden", 2016
+  * David Ordnung, Bachelor's Thesis (Technische Universität Dresden, Germany), "Erkennen und Behandeln von Paketverlusten in Protokollen basierend auf simultanem Übertragen", 2016
+  * Nicolas Coppik, Master's Thesis (Technische Universität Darmstadt, Germany), "Selective Forwarding Mechanisms for Flooding-based Synchronous Transmissions", 2014
+  * Dennis Becker, Master's Thesis (Technische Universität Darmstadt, Germany), "Exploiting Constructive Interference in Heterogeneous Networks on the Example of Glossy", 2014
   
 ## Teaching Activities
    * SS2018, Hardwarepraktikum (HWP), TU Dresden
